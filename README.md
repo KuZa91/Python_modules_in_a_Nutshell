@@ -18,3 +18,4 @@ To date, the following notebooks are available:
 
 - OpenCV
 - PyTorch
+- SciKit-Image
